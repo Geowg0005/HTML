@@ -326,3 +326,151 @@
 </details>
 
 ## Windows Server
+
+<details>
+<summary><b>Windows Server 2008 R2</b> - Chinese (Simplified) (3.2GB)</summary>
+
+| Item | Details |
+|------|---------|
+| **Filename** | `cn_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617396.iso` |
+| **Size** | 3.2GB (3368962048 bytes) |
+| **Download** | [cn_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617396.iso](https://download.testip.xyz/windows/cn_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617396.iso) |
+| **MD5** | `38992812f82e594644b2d64ccd86f89c` |
+| **SHA1** | `a92c97c38ef6ed5f827637179052ad218900377a` |
+| **SHA256** | `179ec05a0f01f14c8817b596025ffb411043fafaf64cabd260c7fb0326c6190b` |
+| **SHA512** | `e815ee8362d4f5e25be46ba5f97a5f503bd24bf914ea0d4166e721463d289a2f77dc38420f8508d82b8ad7eed540ed2854fd25a8b0b2acbb733a242b44796b9e` |
+| **BLAKE2b** | `e4e2c4d3e2120beab789848327bcc1cbbee781329093a6ccdb1de6e610517a566d75de00284dde5c4b18a85eb624b39cee2babe6538bef4020dcb28a77bc8e2d` |
+
+</details>
+
+<details>
+<summary><b>Windows Server 2012 R2</b> - Chinese (Simplified) (5.2GB)</summary>
+
+| Item | Details |
+|------|---------|
+| **Filename** | `cn_windows_server_2012_r2_vl_with_update_x64_dvd_6052729.iso` |
+| **Size** | 5.2GB (5545527296 bytes) |
+| **Download** | [cn_windows_server_2012_r2_vl_with_update_x64_dvd_6052729.iso](https://download.testip.xyz/windows/cn_windows_server_2012_r2_vl_with_update_x64_dvd_6052729.iso) |
+| **MD5** | `a69276d600d9621d3b0ab465e5700b6e` |
+| **SHA1** | `5e88bf62773d4867cf904af94f66eea2062e35e4` |
+| **SHA256** | `882d911e24f67584cb279f4647226fc40203a53b154bef5dc3134d5963861eca` |
+| **SHA512** | `6fb490348dbf267ac1fd22d7ef884b104447bc19bd36001cf320b36e2a9ba160dcb4c919541c852b334399163fd013ec5796bf1a83cea92a58f16ec31fce0d95` |
+| **BLAKE2b** | `b89aa3029a35a20bcd8b729d4c1c2710a238c418ccf9152b98c91c2df3d56f9acbb749e0c5083c2e84d9cb9c655b227be71ea159732454fca46801f3b256dbcd` |
+
+</details>
+
+<details>
+<summary><b>Windows Server 2016</b> - Chinese (Simplified) (5.9GB)</summary>
+
+| Item | Details |
+|------|---------|
+| **Filename** | `cn_windows_server_2016_vl_x64_dvd_11636695.iso` |
+| **Size** | 5.9GB (6302720000 bytes) |
+| **Download** | [cn_windows_server_2016_vl_x64_dvd_11636695.iso](https://download.testip.xyz/windows/cn_windows_server_2016_vl_x64_dvd_11636695.iso) |
+| **MD5** | `30d2d238836968a92c9243129c35320d` |
+| **SHA1** | `ddedf3ace182587baa268ab8ae0d9ea395a6da22` |
+| **SHA256** | `6d270bcccaaae844bdb6adbafe3a490009a2b3476a275ee1dff3c45c224a2854` |
+| **SHA512** | `fbf44908dd576c40daec26f6d625bc99fe361bc6570d3c6a4556701ade05651b351fe3455c1282181d394eb3c5c18db1d9027822fc7a5bf1a147913bce8f1079` |
+| **BLAKE2b** | `8cad12fcd502757a30fbcdaf7436555c56ebb4bda66857fbae5bb524435e26c4cb2cc5ff09a55c68df00f411167178a7343ec10f23c35594f44548dc6161ad4f` |
+
+</details>
+
+<details>
+<summary><b>Windows Server 2019</b> - Chinese (Simplified) (5.5GB)</summary>
+
+| Item | Details |
+|------|---------|
+| **Filename** | `zh-cn_windows_server_2019_x64_dvd_19d65722.iso` |
+| **Size** | 5.5GB (5902852096 bytes) |
+| **Download** | [zh-cn_windows_server_2019_x64_dvd_19d65722.iso](https://download.testip.xyz/windows/zh-cn_windows_server_2019_x64_dvd_19d65722.iso) |
+| **MD5** | `a801a65c0539140bb649b7c4ed329b0c` |
+| **SHA1** | `28eda18154c0389d972e46606009389abcaaf537` |
+| **SHA256** | `0f22c252ba9fd8d3ff3e9fb64ac95dcc494b29cacbbbb3ca806253cb820f0e93` |
+| **SHA512** | `3ec1d14004e735b1f0aedc4cfa8dc51ffbd02aec8d90262b55f3553c2bba0dd44a214219f49e676d1b946dfac21c2a9471ff2834a4ea732e2fc2ed8384194b85` |
+| **BLAKE2b** | `c45d828d7fddcebb945e710a56d6b14e2ff0312a85bc48491a2bc72c9bb41a916ad33423fb5d539adee41dbdbe4942a996a0bbc0cad125c51ce401adfca579a4` |
+
+</details>
+
+<details>
+<summary><b>Windows Server 2019</b> - English (5.3GB)</summary>
+
+| Item | Details |
+|------|---------|
+| **Filename** | `en-us_windows_server_2019_x64_dvd_f9475476.iso` |
+| **Size** | 5.3GB (5651695616 bytes) |
+| **Download** | [en-us_windows_server_2019_x64_dvd_f9475476.iso](https://download.testip.xyz/windows/en-us_windows_server_2019_x64_dvd_f9475476.iso) |
+| **MD5** | `676540503b041245836437227e44d4e0` |
+| **SHA1** | `34412e74f01861ee1c230a189a9b92205d34ef2c` |
+| **SHA256** | `ea247e5cf4df3e5829bfaaf45d899933a2a67b1c700a02ee8141287a8520261c` |
+| **SHA512** | `3e7b993e74823705e450bdd46893c7b782b28ecb2b1e916fb9e5c4b2d0813c3e062158a3eb998e520ad45ac3c585d52efb8cc5c950758d02ca962eae07098246` |
+| **BLAKE2b** | `8ae78129f5fdc69e3e8e8435c71738e2cc93e9e111e312fec505ae30b8a2ed76e0bf3608af84359049b40bae7c4a8869e8008ddac04a5066b7d0fa2c6ed102a5` |
+
+</details>
+
+<details>
+<summary><b>Windows Server 2022 (Updated May 2026)</b> - Chinese (Simplified) (6.2GB)</summary>
+
+| Item | Details |
+|------|---------|
+| **Filename** | `zh-cn_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso` |
+| **Size** | 6.2GB (6635094016 bytes) |
+| **Updated** | Updated May 2026 |
+| **Download** | [zh-cn_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://download.testip.xyz/windows/zh-cn_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso) |
+| **MD5** | `9173711b979795328cb75d64dc36160f` |
+| **SHA1** | `be10eb63de765317d3ab87092f52b20534162fca` |
+| **SHA256** | `36f9d65d05db2f1286f689062996599eed4438292c7ae57b3e7ccde1e4cac9c2` |
+| **SHA512** | `b813b9ae01fa23b5d071d8c574e1a4910cd3b90f0cbab7488bf662baa17aa9671d9d488c4c26b30e9c2f728e15f0d4bf55091d45880f36b3cef13386adb5a7d2` |
+| **BLAKE2b** | `9ee40bc50f378f52ebbd8c4cf343a21e4e54189d549b8f9b09779c305f649e5e93d09b92cc8be27f58992f922f20891852037693fbb052e742ced8d61752e9e9` |
+
+</details>
+
+<details>
+<summary><b>Windows Server 2022 (Updated May 2026)</b> - English (6.1GB)</summary>
+
+| Item | Details |
+|------|---------|
+| **Filename** | `en-us_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso` |
+| **Size** | 6.1GB (6444519424 bytes) |
+| **Updated** | Updated May 2026 |
+| **Download** | [en-us_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://download.testip.xyz/windows/en-us_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso) |
+| **MD5** | `351294ac6720b613d172d6f4576feb82` |
+| **SHA1** | `22a9d86dbf04abd7f6107ed1ded4c27f33033a37` |
+| **SHA256** | `975eeb7e4a415c69a53f7df8c31908007fd45cd6fa41db41d0fdc836d89e75a5` |
+| **SHA512** | `8152101b295dd9b5658c9d2306d3114421b77ce2ca9c6b85fcc7c008f34745c84377971bf1e773afc37511b1017499fdff806583adcc075fac7d3d8025003d88` |
+| **BLAKE2b** | `acfe7e6561daf99b0cdf5878f6a1a588a5e8eb4b4700b8a78a16bb78c9f63e0c881b814bcfb0bf2179bed06d866b8adb5fa75cf2fdbd41e956ecb7914289f1de` |
+
+</details>
+
+<details>
+<summary><b>Windows Server 2025 (Updated May 2026)</b> - Chinese (Simplified) (8.2GB)</summary>
+
+| Item | Details |
+|------|---------|
+| **Filename** | `zh-cn_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso` |
+| **Size** | 8.2GB (8726618112 bytes) |
+| **Updated** | Updated May 2026 |
+| **Download** | [zh-cn_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://download.testip.xyz/windows/zh-cn_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso) |
+| **MD5** | `dbb2d84a6b21f7f738f29b2bcab4f5d5` |
+| **SHA1** | `409ac9896323d0f7a812d1896ced7894cfa66b6f` |
+| **SHA256** | `33b9980c5aaa5bc40aedf20cf9d15f32edafcb6ed883049255713535a61cc40b` |
+| **SHA512** | `59c30dc289657197fa5ebc7ef4793f63c37969d42e92ab9d55245e32597e6affbb02d4d87b4e91e7d1b77dd4740e0ae3c9e8e334088303e64ee7ede9e7adf77a` |
+| **BLAKE2b** | `e06d32bc1d4e892a5ba875717f1a0a929e6a6704b16125b723720afa0fdb26168092a82aaf2ea9a15e6d46808994a2bb2825687b8bacd7a764402316a5a3e324` |
+
+</details>
+
+<details>
+<summary><b>Windows Server 2025 (Updated May 2026)</b> - English (7.9GB)</summary>
+
+| Item | Details |
+|------|---------|
+| **Filename** | `en-us_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso` |
+| **Size** | 7.9GB (8425015296 bytes) |
+| **Updated** | Updated May 2026 |
+| **Download** | [en-us_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://download.testip.xyz/windows/en-us_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso) |
+| **MD5** | `6a594b08071816a08360b1561112ad6b` |
+| **SHA1** | `32452f7df427ac7131e5b59d6e96c6930fabe748` |
+| **SHA256** | `163cdcfb0737b374e4f1892a7ffcee9c89cef3dda390bc8f87112ed7b5453204` |
+| **SHA512** | `7c0b9c4ebc3bf701a7fe2a3668cb20412a0c2072c7e91b67e7536285d62a800dec8aa03e6fb939f5327fae6ccd4379b369cb75f5c85b386e76863371546129c2` |
+| **BLAKE2b** | `90f2c1d39ee348ae89e6bd5790cdb3f917b07b21b78d385870e9460a3d6ace209f04f66b43fd333b9a5d04010b89e3449a9ceae81a25fe670068c6ec184d2a78` |
+
+</details>
